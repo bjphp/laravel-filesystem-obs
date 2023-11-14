@@ -1,6 +1,6 @@
 {
-    "name": "sakuara-bj/obs",
-    "description": "obs",
+    "name": "sakuara-bj/laravel-filesystem-obs",
+    "description": "A OBS storage filesystem for Laravel ",
     "type": "library",
     "require": {
         "obs/esdk-obs-php": "^3.23.5",
