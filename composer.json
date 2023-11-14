@@ -1,5 +1,5 @@
 {
-    "name": "shopex/obs",
+    "name": "bjphp/obs",
     "description": "obs",
     "type": "library",
     "require": {
@@ -10,6 +10,11 @@
     "autoload": {
         "psr-4": {
             "Shopex\\Obs\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Shopex\\Obs\\Test\\": "tests/"
         }
     },
     "authors": [
