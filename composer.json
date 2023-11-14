@@ -1,0 +1,22 @@
+{
+    "name": "shopex/obs",
+    "description": "obs",
+    "type": "library",
+    "require": {
+        "obs/esdk-obs-php": "^3.23.5",
+        "league/flysystem": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shopex\\Obs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "baojian",
+            "email": "baojian@shopex.cn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
