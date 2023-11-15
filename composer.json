@@ -23,5 +23,12 @@
             "email": "baojian@shopex.cn"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shopex\\Obs\\ObsStorageServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev"
 }
